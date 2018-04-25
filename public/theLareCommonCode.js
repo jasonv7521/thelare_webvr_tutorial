@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://conphotography.com/wp-content/uploads/2015/02/ello-.jpg',
+  image: 'http://www.englishbay.com/wp-content/uploads/2014/05/PANO_20140518_142918.jpg',
   is_stereo: false,
 });
 
