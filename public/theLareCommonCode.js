@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://exsight360.com/wordpress/wp-content/uploads/2013/05/PANO_20130425_082030.jpg',
+  image: 'http://pocketnow.com/wp-content/uploads/2013/07/photo-sphere-43.jpg',
   is_stereo: false,
 });
 var setReadyEvents = function(event) {
