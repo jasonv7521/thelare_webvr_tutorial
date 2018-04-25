@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://commons.wikimedia.org/wiki/File:CMU-Campus-Photo-Sphere.jpg',
+  image: 'https://pxhere.com/ro/photo/1211544',
   is_stereo: false,
 });
 
