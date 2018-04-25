@@ -4,7 +4,8 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://www.englishbay.com/wp-content/uploads/2014/05/PANO_20140518_142918.jpg',
+  image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXy37UrLlzruFOXY9nZ3vNnLxyLrbilIvaR01dp_fK-ev7gXWc
+  ',
   is_stereo: false,
 });
 
