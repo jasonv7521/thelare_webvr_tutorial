@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'thelare_webvr_tutorial/public/theLareCommonCode.js',
+  image: 'https://commons.wikimedia.org/wiki/File:CMU-Campus-Photo-Sphere.jpg',
   is_stereo: false,
 });
 
