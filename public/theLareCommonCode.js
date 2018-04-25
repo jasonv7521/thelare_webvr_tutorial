@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://pocketnow.com/wp-content/uploads/2013/07/photo-sphere-43.jpg',
+  image: 'https://farm2.static.flickr.com/1564/26013750234_33f4a73b7a_b.jpg',
   is_stereo: false,
 });
 var setReadyEvents = function(event) {
