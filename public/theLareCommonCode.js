@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://pxhere.com/ro/photo/1211544',
+  image: 'https://galaxy-note2.gadgethacks.com/how-to/install-jelly-bean-4-2s-photo-sphere-camera-gallery-your-samsung-galaxy-note-2-0147038/',
   is_stereo: false,
 });
 
