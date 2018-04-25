@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://photosphereviewer.net/images/demo/demo5_full.jpg',
+  image: 'https://photosphereviewer.net/view/',
   is_stereo: false,
 });
 var setReadyEvents = function(event) {
