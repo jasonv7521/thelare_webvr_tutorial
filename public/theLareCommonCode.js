@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'http://conphotography.com/photosphere-on-the-brooklyn-bridge/',
+  image: 'http://conphotography.com/wp-content/uploads/2015/02/ello-.jpg',
   is_stereo: false,
 });
 
