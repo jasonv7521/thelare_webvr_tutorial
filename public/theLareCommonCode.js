@@ -4,7 +4,7 @@ var vRViewPlayer = function(elementIdName, options) {
 }
 
 var drawingRoom = vRViewPlayer('#first-vr-example', {
-  image: 'https://learn360photography.com/blog/how-to-install-photosphere-on-a-samsung-galaxy-s3/',
+  image: 'http://exsight360.com/wordpress/wp-content/uploads/2013/05/PANO_20130425_082030.jpg',
   is_stereo: false,
 });
 var setReadyEvents = function(event) {
